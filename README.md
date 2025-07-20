@@ -1,1 +1,4 @@
-# Midwest-Grocery
+# Midwest Grocery App Store
+
+#Project Overview
+
