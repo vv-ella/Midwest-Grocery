@@ -1,3 +1,6 @@
+**MIDWEST GROCERY STORE**
+_______________________
+
 **PROJECT OVERVIEW**
 
 Midwest Grocery App Store is a mobile application designed to modernize and streamline the grocery shopping experience for customers of Midwest Grocery.
